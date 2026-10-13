@@ -185,7 +185,7 @@ alan-shao-skill/
 - 描述建议：`fan-made AI style skill · not affiliated`
 - **不要**使用他的头像、证件照或官方品牌图作为仓库封面
 
-维护者：maxiaochaos（chaos / 马超）。LICENSE 版权同此。
+维护者：maxiaochaos（chaos）。LICENSE 版权同此。
 
 ---
 
