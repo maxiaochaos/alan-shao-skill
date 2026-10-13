@@ -68,7 +68,7 @@
 把下面的路径换成你的仓库：
 
 ```bash
-npx skills add <你的GitHub用户名>/alan-shao-skill
+npx skills add maxiaochaos/alan-shao-skill
 ```
 
 ### 方式二：手动安装
