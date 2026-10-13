@@ -180,12 +180,12 @@ alan-shao-skill/
 
 本仓库为粉丝向研究整理，与邵艾伦本人及团队无关。素材均来自公开平台，调研时间 2026-10-13。
 
-推送到 GitHub 前请：
+- 仓库：https://github.com/maxiaochaos/alan-shao-skill
+- 安装：`npx skills add maxiaochaos/alan-shao-skill`
+- 描述建议：`fan-made AI style skill · not affiliated`
+- **不要**使用他的头像、证件照或官方品牌图作为仓库封面
 
-1. 把 README 里的 `<你的GitHub用户名>` 换成自己的
-2. 按需修改 LICENSE 里的 Copyright 名字
-3. **不要**使用他的头像、证件照或官方品牌图作为仓库封面
-4. 仓库描述建议写明：`fan-made AI style skill · not affiliated`
+维护者：maxiaochaos（chaos / 马超）。LICENSE 版权同此。
 
 ---
 
